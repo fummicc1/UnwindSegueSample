@@ -30,7 +30,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="2つ目の画面へ"/>
                                 <connections>
-                                    <segue destination="Xba-u7-Zci" kind="presentation" id="m7f-7l-Ptj"/>
+                                    <segue destination="Xba-u7-Zci" kind="presentation" identifier="toSecond" id="m7f-7l-Ptj"/>
                                 </connections>
                             </button>
                         </subviews>
